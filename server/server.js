@@ -23,7 +23,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 
-const startApolloServer = async (typeDefs, resolvers) => {
+const startApolloServer = async ({typeDefs, resolvers}) => {
   await server.start();
   server.applyMiddleware({ app });
   
@@ -35,4 +35,4 @@ const startApolloServer = async (typeDefs, resolvers) => {
   })
   };
   
-startApolloServer(typeDefs, resolvers);
+startApolloServer({typeDefs, resolvers});
