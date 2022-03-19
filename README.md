@@ -1,7 +1,7 @@
 # book-search-engine
 
 ## Overview
-This is a book search app that uses GoogleBooks API. Users can create an account, login, search for, and save their favorite books. This is a full stack MERN app.
+This is a book search app that uses GoogleBooks API, and MERN stack engineering. This app uses JSON Web Tokens to verify and authenticate users. Once logged in, users can search for and save their favorite books onto their dashboard.
 
 ## Heroku Deployment
 This app was deployed using Heroku. Link to the app: https://fast-ocean-17146.herokuapp.com/
