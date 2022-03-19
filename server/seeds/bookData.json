@@ -1,0 +1,14 @@
+[
+    {
+    "authors": "JK Rowling",
+    "description": "thrilling and adventurous",
+    "bookId": "bookId",
+    "title": "Harry Potter"
+},
+    {
+    "authors": "Rick Riordian",
+    "description": "fun and exciting",
+    "bookId": "bookId",
+    "title": "Percy Jackson"
+}
+]
