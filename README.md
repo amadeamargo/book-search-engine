@@ -9,6 +9,7 @@ Of note: This project has been completed, however the link to deployed app has a
 The app works locally. To start the app, run `npm start` in the client directory and `npm run watch` in the server directory. 
 
 
+<img width="1158" alt="Screen Shot 2022-03-19 at 9 48 08 AM" src="https://user-images.githubusercontent.com/90944910/159125914-b2e13b7d-642c-4c89-81e2-9036528e3800.png">
 
 
 
